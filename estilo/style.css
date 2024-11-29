@@ -1,0 +1,46 @@
+a{
+    color: red;
+    text-decoration: none;
+}
+
+a:hover{
+    color: blue;
+    text-decoration: none;
+}
+
+.ulh{
+    background-size: cover;
+    background-image:url("../midia/backgroundimage.jpg");
+    background-repeat: no-repeat;
+}
+
+.gps{
+    width: 100%;
+}
+
+.imgp{
+    width: 100%;
+}
+.imgs{
+    width: 100%;
+}
+.imgh{
+    width: 100%;
+}
+.h1h{
+    background-color: rgb(166, 166, 166);
+    text-align: center;
+    border-radius: 50px;
+}
+
+.h1p{
+    background-color: rgb(166, 166, 166);
+    text-align: center;
+    border-radius: 50px;
+}
+
+.h1s{
+    background-color: rgb(166, 166, 166);
+    text-align: center;
+    border-radius: 50px;
+}
